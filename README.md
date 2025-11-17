@@ -1,4 +1,4 @@
-# A review of machine learning models for the prediction of sepsis in Canadian healthcare systems
+# A Review of Machine Learning Models for the Prediction of Sepsis in Canadian Healthcare Systems
 
 ### Abstract
 
